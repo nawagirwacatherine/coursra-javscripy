@@ -1,0 +1,1 @@
+var loveCalculator = math.random();

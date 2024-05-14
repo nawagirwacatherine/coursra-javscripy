@@ -8,8 +8,8 @@ hotel.isFull = false;
 
 console.log(hotel)
 
-hotel.summariseHptel = function(){
+hotel.summariseHotel = function(){
     console.log('The Grand is a beautiful5 star hotel');
 }
 
-hotel.summariseHotel()
+hotel.summariseHotel();
